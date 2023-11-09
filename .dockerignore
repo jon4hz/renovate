@@ -25,3 +25,5 @@ renovate-schema.json
 tools/dist
 test/datasource/nuget/_fixtures/obj
 
+# testing
+/docker-compose.yml
